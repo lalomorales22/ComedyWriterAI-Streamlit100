@@ -15,7 +15,7 @@ ComedyWriter AI is a Streamlit-based application that helps aspiring comedians a
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/comedywriter-ai.git
+   git clone https://github.com/lalomorales22/ComedyWriterAI-Streamlit100.git
    cd comedywriter-ai
    ```
 
